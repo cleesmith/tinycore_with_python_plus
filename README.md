@@ -11,6 +11,7 @@
 * Vim
 * Git
 * OpenSSH: ssh, scp, and ssh server
+* Cellipede ... ready to run/test
 
 > Note: while this is much larger than
 [Tiny Core (15MB)](http://distro.ibiblio.org/tinycorelinux/downloads.html "Tiny Core")
