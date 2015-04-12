@@ -1,1 +1,2 @@
-# Tiny Core Linux remastered for Python and more
+# Tiny Core Linux
+## remastered for Python and more
