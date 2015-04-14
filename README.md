@@ -19,7 +19,10 @@ and takes a bit longer to download, this takes a lot less time than doing
 all of the necessary TCE installs (tce-load) and configuring all of that
 to be persistent.
 
-#### Usage on Windows:
+#### Windows usage:
+* Dowload ZIP via https://github.com/cleesmith/tinycore_with_python_plus
+* unzip download
+* in a command prompt enter:
 ```
 qemu -m 1024 -hda tcl4windows.vdi -netdev user,id=network0 -device e1000,netdev=network0 -redir tcp:5000::80
 ```
