@@ -22,9 +22,6 @@ to be persistent.
 #### Windows usage:
 * Dowload ZIP via https://github.com/cleesmith/tinycore_with_python_plus
 * unzip download
-* in a command prompt enter:
-```
-qemu -m 1024 -hda tcl4windows.vdi -netdev user,id=network0 -device e1000,netdev=network0 -redir tcp:5000::80
-```
+* double-click tinycore.vbs
 
 ***
