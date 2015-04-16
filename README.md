@@ -44,7 +44,7 @@ around and experimenting ... just remember it is very slow so be patient.
 
 #### Mac OS X and Linux usage:
 > As both Mac OS X and Linux already have most of what is needed to do python development, this
-remastered Tiny Core is not needed.
+remastered Tiny Core is not needed.  But it will work if you need to use as I created this on a Mac.
 
 #### ToDo:
 1. fix path references in tinycore.vbs for qemu-system-i386w.exe and tclwin.vdi ??? somehow
