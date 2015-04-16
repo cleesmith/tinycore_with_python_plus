@@ -42,6 +42,10 @@ around and experimenting ... just remember it is very slow so be patient.
 1. double-click tinycore.vbs
 1. install Cellipede, see: https://github.com/cleesmith/cellipede
 
+#### Mac OS X and Linux usage:
+> As both Mac OS X and Linux already have most of what is needed to do python development, this
+remastered Tiny Core is not needed.
+
 #### ToDo:
 1. fix path references in tinycore.vbs for qemu-system-i386w.exe and tclwin.vdi ??? somehow
 
