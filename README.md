@@ -6,7 +6,7 @@
 
 > While this is much larger than
 [Tiny Core (15MB)](http://distro.ibiblio.org/tinycorelinux/downloads.html "Tiny Core")
-and takes a bit longer to download. It takes a lot less time to install/setup than doing
+and takes a bit longer to download, it takes a lot less time to install/setup than doing
 all of the necessary TCE installs (tce-load) and configurations.
 
 ***
