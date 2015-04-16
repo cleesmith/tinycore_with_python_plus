@@ -12,7 +12,8 @@ all of the necessary TCE installs (tce-load) and configurations.
 ***
 
 #### This remaster includes everything needed to code with Python:
-* compiletc: for compiling stuff with gcc and friends
+* Tiny Core version 6.1
+* compiletc: for compiling source code with gcc/friends as required with some python packages
 * Python 2.7.8, python-distribute, and pip
 * Nano
 * Vim
