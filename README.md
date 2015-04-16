@@ -18,7 +18,8 @@ all of the necessary TCE installs (tce-load) and configurations.
 * Nano
 * Vim
 * Git
-* OpenSSH: ssh, scp, and ssh server
+* OpenSSH
+  * includes ssh, scp, and the ssh server
 
 ***
 
