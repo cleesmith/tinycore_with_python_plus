@@ -27,6 +27,6 @@ to be persistent.
 * install Cellipede, see: https://github.com/cleesmith/cellipede
 
 > ToDo:
-* fix path references in tinycore.vbs for qemu and tclwin.vdi ???
+* fix path references in tinycore.vbs for qemu-system-i386w.exe and tclwin.vdi ??? somehow
 
 ***
