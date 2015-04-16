@@ -27,6 +27,7 @@ all of the necessary TCE installs (tce-load) and configurations.
 
 > How to use the remastered disk image with VirtualBox:
 * simply refer to tclwin.vdi as Storage for the virtual machine
+
 > note: this is the recommended way to use the remastered Tiny Core as it is much faster than QEMU
 
 #### Windows usage:
