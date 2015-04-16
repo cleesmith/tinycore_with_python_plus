@@ -30,7 +30,8 @@ all of the necessary TCE installs (tce-load) and configurations.
 
 > note: VirtualBox is the recommended way to use the remastered Tiny Core as it is much faster
 than QEMU, more flexible, and easier to setup/configure.  But if your situation forces you to
-avoid installations (windows, admin rights, etc.) then QEMU works ... just remember it is very slow.
+avoid installations (windows, admin rights, etc.) then QEMU works well enough for poking around
+and playing ... just remember it is very slow.
 
 #### Windows usage:
 * download Qemu-2.2.0-windows.zip via http://lassauge.free.fr/qemu/QEMU_on_Windows.html
