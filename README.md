@@ -23,9 +23,10 @@ all of the necessary TCE installs (tce-load) and configurations.
 
 ***
 
-1. how to use the remastered disk image with **QEMU**:
+#### How to use the remastered disk image with:
+1. **QEMU**:
   * ?/Qemu-windows-2.2.0/qemu-system-i386w.exe -L Bios -m 1024 -hda **tclwin.vdi**
-2. how to use the remastered disk image with **VirtualBox**:
+2. **VirtualBox**:
   * use **tclwin.vdi** as the **hard disk** in the **Storage** setting for the virtual machine
 
 > VirtualBox is the recommended way to use the remastered Tiny Core as it is much faster
