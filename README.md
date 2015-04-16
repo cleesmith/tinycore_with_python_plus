@@ -41,7 +41,7 @@ around and experimenting ... just remember it is very slow so be patient.
 1. double-click tinycore.vbs
 1. install Cellipede, see: https://github.com/cleesmith/cellipede
 
-> ToDo:
-* fix path references in tinycore.vbs for qemu-system-i386w.exe and tclwin.vdi ??? somehow
+#### ToDo:
+1. fix path references in tinycore.vbs for qemu-system-i386w.exe and tclwin.vdi ??? somehow
 
 ***
