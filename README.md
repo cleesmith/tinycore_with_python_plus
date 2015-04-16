@@ -11,7 +11,6 @@
 * Vim
 * Git
 * OpenSSH: ssh, scp, and ssh server
-* Cellipede ... ready to run/test
 
 > Note: while this is much larger than
 [Tiny Core (15MB)](http://distro.ibiblio.org/tinycorelinux/downloads.html "Tiny Core")
@@ -25,6 +24,7 @@ to be persistent.
 * click "Download ZIP" via https://github.com/cleesmith/tinycore_with_python_plus
 * unzip download
 * double-click tinycore.vbs
+* install Cellipede, see: https://github.com/cleesmith/cellipede
 
 > ToDo:
 * fix path references in tinycore.vbs for qemu and tclwin.vdi ???
