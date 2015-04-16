@@ -26,9 +26,8 @@ all of the necessary TCE installs (tce-load) and configurations.
 * qemu-system-i386w.exe -L Bios -m 1024 -hda tclwin.vdi
 
 > How to use the remastered disk image with VirtualBox:
-
-> note: this is the recommended way to use the remastered Tiny Core as it is much faster than QEMU
 * simply refer to tclwin.vdi as Storage for the virtual machine
+> note: this is the recommended way to use the remastered Tiny Core as it is much faster than QEMU
 
 #### Windows usage:
 * download Qemu-2.2.0-windows.zip via http://lassauge.free.fr/qemu/QEMU_on_Windows.html
