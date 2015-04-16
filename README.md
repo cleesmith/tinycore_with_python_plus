@@ -33,12 +33,12 @@ you to install VirtualBox (windows, admin rights, etc.) then QEMU works well eno
 around and experimenting ... just remember it is very slow so be patient.
 
 #### Windows usage:
-* download Qemu-2.2.0-windows.zip via http://lassauge.free.fr/qemu/QEMU_on_Windows.html
-* unzip download
-* click "Download ZIP" via https://github.com/cleesmith/tinycore_with_python_plus
-* unzip download
-* double-click tinycore.vbs
-* install Cellipede, see: https://github.com/cleesmith/cellipede
+1 download Qemu-2.2.0-windows.zip via http://lassauge.free.fr/qemu/QEMU_on_Windows.html
+1 unzip download
+1 click "Download ZIP" via https://github.com/cleesmith/tinycore_with_python_plus
+1 unzip download
+1 double-click tinycore.vbs
+1 install Cellipede, see: https://github.com/cleesmith/cellipede
 
 > ToDo:
 * fix path references in tinycore.vbs for qemu-system-i386w.exe and tclwin.vdi ??? somehow
