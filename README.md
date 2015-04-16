@@ -23,7 +23,7 @@ all of the necessary TCE installs (tce-load) and configurations.
 ***
 
 * How to use the remastered disk image with QEMU:
-  * ???/Qemu-windows-2.2.0/qemu-system-i386w.exe -L Bios -m 1024 -hda **tclwin.vdi**
+  * ?/Qemu-windows-2.2.0/qemu-system-i386w.exe -L Bios -m 1024 -hda **tclwin.vdi**
 
 * How to use the remastered disk image with VirtualBox:
   * use **tclwin.vdi** as the **hard disk** in the **Storage** setting for the virtual machine
