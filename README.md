@@ -36,7 +36,7 @@ around and experimenting ... just remember it is very slow so be patient.
 
 #### Windows usage:
 1. download Qemu-2.2.0-windows.zip via http://lassauge.free.fr/qemu/QEMU_on_Windows.html
-  * just in case, Qemu-2.2.0-windows.zip is also here:
+  * Qemu-2.2.0-windows.zip is also here:
   http://cellipede.com/static/Qemu-2.2.0-windows.zip
 1. unzip download
 1. click "Download ZIP" via https://github.com/cleesmith/tinycore_with_python_plus
