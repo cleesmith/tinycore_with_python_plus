@@ -39,8 +39,9 @@ around and experimenting ... just remember it is very slow so be patient.
   * Qemu-2.2.0-windows.zip is also here:
   http://cellipede.com/static/Qemu-2.2.0-windows.zip
 1. unzip download
-1. click "Download ZIP" via https://github.com/cleesmith/tinycore_with_python_plus
+1. now go to https://github.com/cleesmith/tinycore_with_python_plus and click "Download ZIP"
 1. unzip download
+1. edit **tinycore.vbs** and ensure **Shell.CurrentDirectory** is correct
 1. double-click tinycore.vbs
 1. install Cellipede, see: https://github.com/cleesmith/cellipede
 
