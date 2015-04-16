@@ -20,7 +20,9 @@ all of the necessary TCE installs (tce-load) and configuring all of that
 to be persistent.
 
 #### Windows usage:
-* Dowload ZIP via https://github.com/cleesmith/tinycore_with_python_plus
+* download Qemu-2.2.0-windows.zip via http://lassauge.free.fr/qemu/QEMU_on_Windows.html
+* unzip download
+* click "Download ZIP" via https://github.com/cleesmith/tinycore_with_python_plus
 * unzip download
 * double-click tinycore.vbs
 
