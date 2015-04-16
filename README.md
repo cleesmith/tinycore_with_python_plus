@@ -26,4 +26,7 @@ to be persistent.
 * unzip download
 * double-click tinycore.vbs
 
+> ToDo:
+* fix path references in tinycore.vbs for qemu and tclwin.vdi ???
+
 ***
